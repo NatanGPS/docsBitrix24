@@ -3,7 +3,7 @@ Primeiramente, gostaria de fazer uma breve introdução ao Bitrix. **Bitrix24** 
 
 Além disso, o Bitrix24 centraliza a gestão de tarefas e projetos, comunicação interna (chat e videoconferências) e até processos de RH, tudo em um único lugar. Com acesso via nuvem e aplicativos móveis, a plataforma permite que as equipes trabalhem de forma eficiente, de qualquer lugar.
 
-O Bitrix oferece um nível totalmente gratuito de utilização, onde podemos ter acesso a um CRM simplificado, de certa forma, podemos desfrutar de diversas ferramentas, porém ficamos limitados a algumas opções e automações do próprio Bitrix, por conta disso, peço que, considerem que para essa automação, estou utilizando de uma assinatura paga da plataforma, para ter acesso a todas as funções possíveis.
+O Bitrix oferece um nível totalmente gratuito de utilização, onde podemos ter acesso a um CRM simplificado, de certa forma, podemos desfrutar de diversas ferramentas, porém ficamos limitados a algumas opções e automações do próprio Bitrix, por conta disso, peço que, considerem que para esse guia, estou utilizando de uma assinatura paga da plataforma, para ter acesso a todas as funções possíveis.
 
 Em um primeiro momento, quando temos nosso primeiro contato com a plataforma, podemos ficar extremamente confusos, o que é perfeitamente normal, de certa forma, o Bitrix oferece uma vasta gama de funcionalidades, páginas, e configurações, o que pode facilmente confundir um novo usuário. Por esse motivo, começarei esse guia com uma rápida apresentação da plataforma.
 
